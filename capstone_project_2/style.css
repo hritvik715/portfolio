@@ -1,0 +1,191 @@
+body{
+  text-align: center;
+  /* parent-text,child-text,grandchild text-align  sabb mey lag jaayega */
+}
+
+div{
+  display:block;
+}
+
+
+
+
+#intro{
+  background-color: whitesmoke;
+}
+
+.upper{
+  margin-top: 250px;
+}
+
+.intro{
+  Width:100vw;
+  Display:flex;
+  Justify-content:center;
+  Align-items:center;
+  flex-direction: column;
+  
+  background-color: whitesmoke;
+  
+
+
+
+  }
+  
+ 
+.helvetica{
+  font-size: 50px;
+  font-family: 'Pacifico', cursive;
+}
+
+/* ABOUT MYSELF */
+.cartoon_img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.starting{
+  width:25%;
+  margin:auto;
+}
+
+.hritvik-img{
+  height:200px;
+  border-radius: 50%;
+  margin-top: 100PX;
+ 
+}
+
+
+
+.hello h1{
+  color:cadetblue;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  }
+
+.hello{
+  color:cornflowerblue;
+  Display:flex;
+  Justify-content:center;
+  Align-items:center;
+  flex-direction: column;
+  /* margin-top: 150px; */
+  text-align: center;
+  
+
+}
+
+.hello>h3{
+  line-height: 2;
+}
+
+#My-self{
+  margin-bottom: 100px;
+}
+
+
+
+
+/* MY skills */
+
+
+/* to do --> isko grid vaale tarike se kar abb  */
+/* to do --> isko grid vaale tarike se kar abb  */
+/* to do --> isko grid vaale tarike se kar abb  */
+/* to do --> isko grid vaale tarike se kar abb  */
+/* to do --> isko grid vaale tarike se kar abb  */
+/* to do --> isko grid vaale tarike se kar abb  */
+
+/* pehle flex box se complete kar  */
+/* pehle flex box se complete kar  */
+/* pehle flex box se complete kar  */
+
+
+.both-div{
+  display:flex;
+  flex-direction: column;
+  text-align: left;
+  align-items:center;
+  width:45%;
+ 
+}
+
+
+.justify-center,.second-both-div{
+  display:flex;
+  /* justify-content: center; */
+  margin-top: 100px;
+ 
+}
+
+p{
+  line-height: 2;
+}
+
+
+h1{
+  text-align: center;
+}
+
+.skills-text{
+  margin-top:200px;
+  margin-bottom: 50px;
+}
+
+.coding_gif{
+  height:200px;
+  /* float:left; */
+  width: 270px;
+  border-radius: 10%;
+}
+
+.food{
+  height:200px;
+  width: 270px;
+  border-radius: 10%;
+}
+
+.coding-details,.chole-bhature-details{
+  margin-left:10px;
+}
+
+
+
+
+
+
+
+/* 
+contact portion
+contact portion
+contact portion
+contact portion
+contact portion */
+
+.contact{
+  margin-top:200px ;
+}
+
+
+.btn{
+  font-size:20px;
+  border-radius: 8px;
+  margin-bottom: 100px;
+
+}
+
+
+
+#footer,li{
+  background-color:cornflowerblue;
+}
+
+
+.friend_via_bhature{
+  width:25%;
+  margin :40px auto 60px;
+
+}
