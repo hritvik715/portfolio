@@ -108,23 +108,23 @@ div{
   display:flex;
   flex-direction: column;
   text-align: left;
+  justify-content: center;
   align-items:center;
-  width:45%;
+  /* width:45%; */
+  width:100vw;
  
 }
-
-
 .justify-center,.second-both-div{
   display:flex;
   /* justify-content: center; */
   margin-top: 100px;
+  justify-content: space-evenly;
  
 }
 
 p{
   line-height: 2;
 }
-
 
 h1{
   text-align: center;
@@ -138,18 +138,19 @@ h1{
 .coding_gif{
   height:200px;
   /* float:left; */
-  width: 270px;
+  width: 50%;
   border-radius: 10%;
 }
 
 .food{
   height:200px;
-  width: 270px;
+  width: 50%;
   border-radius: 10%;
 }
 
 .coding-details,.chole-bhature-details{
   margin-left:10px;
+  width:50%;
 }
 
 
